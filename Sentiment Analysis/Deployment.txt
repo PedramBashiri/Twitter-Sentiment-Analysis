@@ -1,0 +1,5 @@
+You need to add the following libraries to get the application running:
+ejm-0.23.jar
+stanford-corenlp-3.5.2.jar
+stanford-corenlp-3.5.2-models.jar
+twitter4j-core-4.0.3.jar
